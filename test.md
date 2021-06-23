@@ -1,1 +1,1 @@
-This is test commit.
+This is new test commit.
